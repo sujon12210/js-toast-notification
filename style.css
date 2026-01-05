@@ -1,0 +1,19 @@
+body{
+  font-family:Arial;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:#f1f5f9;
+}
+
+#toast{
+  position:fixed;
+  bottom:30px;
+  right:30px;
+  background:#16a34a;
+  color:white;
+  padding:12px 20px;
+  border-radius:6px;
+  display:none;
+}
